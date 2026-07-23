@@ -41,7 +41,7 @@ export default function Footer() {
             <div className="flex items-center gap-2">
               <div className="w-10 h-10 bg-accent/20 rounded-lg flex items-center justify-center">
                 <img 
-                  src="/manus-storage/logo-dalia-security_0dd25dcf.png" 
+                  src="/images/logo-dalia-security_0dd25dcf.png" 
                   alt="Dalia Security"
                   className="w-8 h-8 object-contain"
                 />

@@ -27,7 +27,7 @@ export default function Header() {
         <div className="flex items-center gap-2 flex-shrink-0">
           <div className="w-10 h-10 md:w-12 md:h-12 bg-gradient-to-br from-primary to-primary/80 rounded-lg flex items-center justify-center">
             <img 
-              src="/manus-storage/logo-dalia-security_0dd25dcf.png" 
+              src="/images/logo-dalia-security_0dd25dcf.png" 
               alt="Dalia Security Logo"
               className="w-8 h-8 md:w-10 md:h-10 object-contain"
             />

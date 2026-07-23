@@ -75,7 +75,7 @@ export default function Hero() {
               <div className="absolute top-0 left-0 h-full w-1 bg-gradient-to-b from-accent via-primary to-transparent" />
               
               <img
-                src="/manus-storage/hero-surveillance-center_8136ffae.png"
+                src="/images/hero-surveillance-center_8136ffae.png"
                 alt="Centre de surveillance Technosurveillance"
                 className="w-full h-full object-cover"
               />

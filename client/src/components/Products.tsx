@@ -8,7 +8,7 @@ const products = [
     name: "Caméra Dôme 4K",
     category: "Surveillance",
     description: "Caméra dôme haute résolution avec vision nocturne avancée",
-    image: "/manus-storage/camera-installation-service_b327432e.png",
+    image: "/images/camera-installation-service_b327432e.png",
     features: ["4K Ultra HD", "Vision nocturne IR", "Zoom optique 30x"],
     price: "À partir de 150,000 FCFA"
   },
@@ -16,7 +16,7 @@ const products = [
     name: "Tracker GPS Pro",
     category: "Tracking",
     description: "Suivi GPS en temps réel pour véhicules et motos",
-    image: "/manus-storage/gps-tracking-dashboard_4ad44fe4.png",
+    image: "/images/gps-tracking-dashboard_4ad44fe4.png",
     features: ["Localisation live", "Alertes géofence", "Historique 12 mois"],
     price: "À partir de 50,000 FCFA"
   },
@@ -24,7 +24,7 @@ const products = [
     name: "Système Complet",
     category: "Bundle",
     description: "Solution intégrée caméras + GPS + monitoring",
-    image: "/manus-storage/security-benefits-abstract_6d1c5e16.png",
+    image: "/images/security-benefits-abstract_6d1c5e16.png",
     features: ["4 caméras 4K", "2 trackers GPS", "Monitoring 24/7"],
     price: "À partir de 500,000 FCFA"
   }
